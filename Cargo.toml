@@ -1,16 +1,15 @@
 [package]
-name = "mujammi"
+name = "alym"
 version = "0.1.0-alpha.0"
-authors = ["zer0-x"]
+authors = ["zefr0x"]
 edition = "2021"
 description = ""
 readme = "README.md"
-homepage = "https://github.com/zer0-x/mujammi"
-repository = "https://github.com/zer0-x/mujammi.git"
+homepage = "https://github.com/zefr0x/alym"
+repository = "https://github.com/zefr0x/alym.git"
 license = "AGPL-3.0"
 keywords = ["news", "feed", "aggregator", "rss"]
 build = "build.rs"
-
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
